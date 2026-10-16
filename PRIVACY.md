@@ -3,7 +3,7 @@
 
 Effective upon deployment of this version. Operator: u/realsmurph; support and
 removal requests: https://www.reddit.com/message/compose/?to=realsmurph .
-This private app processes public r/homelabsales listing text, IDs, timestamps,
+This private app processes public listing text from the configured hardware-sale communities (default: r/homelabsales and r/hardwareswap), IDs, timestamps,
 author names and flair to identify relevant hardware and exclusions. Selected
 listing titles/excerpts, prices, locations, links and timestamps are transmitted to
 the owner's Discord channel. Discord and Reddit process data under their own

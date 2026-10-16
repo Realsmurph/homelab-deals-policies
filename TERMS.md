@@ -10,3 +10,6 @@ all seller contact and transactions independently. No fees or payments are colle
 by this app. Use must comply with Reddit and Discord rules. Stop collection through
 the enabled setting and complete cleanup before uninstalling. Support and issue
 reports: https://www.reddit.com/message/compose/?to=realsmurph .
+
+Source list: edit the comma-separated subreddits installation setting. Default: homelabsales,hardwareswap. Other communities must use supported sale formats; retail-deal formats need an adapter before adding. Test source access reads five posts per source without storing content or sending messages.
+
